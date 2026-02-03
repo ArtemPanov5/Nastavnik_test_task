@@ -1,0 +1,5 @@
+user_id,skill_id,num_attempts,success_rate,last_correct,learning_curve
+u1,functions,2,0.5,1,0.5
+u1,loops,3,0.6666666666666666,1,0.6666666666666666
+u2,functions,2,1.0,1,1.0
+u2,loops,3,1.0,1,1.0
